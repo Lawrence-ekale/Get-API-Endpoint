@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "Get-API-Endpoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lawrence_Ekale <vybzeikagema@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "bluebird": "^3.7.2",
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "discord.js": "^14.4.0",
+    "ejs": "^3.1.8",
+    "erlpack": "github:discord/erlpack",
+    "escape-html": "^1.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "joi": "^17.6.1",
+    "nodemailer": "^6.7.8",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "pbkdf2-password": "^1.2.1",
+    "promise": "^8.2.0",
+    "pug": "^3.0.2",
+    "q": "^1.5.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.2",
+    "socket.io-client": "^4.5.2",
+    "url": "^0.11.0",
+    "uuid": "^9.0.0",
+    "websocket": "^1.0.34",
+    "zlib-sync": "^0.1.7"
+  }
+}
